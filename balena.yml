@@ -13,6 +13,8 @@ data:
     - DELAY: 1
     - STARTTIME: 0000
     - STOPTIME: 2359
+    - ON_BRIGHTNESS: 0.8
+    - OFF_BRIGHTNESS: 0.3
   defaultDeviceType: "raspberry-pi"
   supportedDeviceTypes:
     - "raspberry-pi"
